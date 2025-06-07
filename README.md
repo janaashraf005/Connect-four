@@ -1,5 +1,4 @@
-# Connect Four game
-
+# Connect Four Game
 A terminal-based 2-player Connect Four game implemented using Object-Oriented Programming (OOP) principles in Python.
 
 ## Key Features
